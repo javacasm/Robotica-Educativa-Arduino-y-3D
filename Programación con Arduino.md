@@ -4,8 +4,8 @@
 
 ## Robótica Educativa: proyectos con arduino, 3D
 ### Arduino
-## CEP Granada              
-Febrero 2015
+## CEP Granada, Enero 2015
+
 ![CC](https://licensebuttons.net/l/by-sa/3.0/88x31.png)
 ## José Antonio Vacas  @javacasm
 [Presentación](https://swipe.to/1586cc)
