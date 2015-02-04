@@ -69,18 +69,18 @@ Utilizamos el pin 13 porque ya tiene un led conectado en la placa
 
 ![blink](http://arduino.cc/en/uploads/Tutorial/ExampleCircuit_bb.png)
 
-int led = 13;
+	int led = 13;
 
-void setup() {                
-  pinMode(led, OUTPUT);     
-}
+	void setup() {                
+	  pinMode(led, OUTPUT);     
+	}
 
-void loop() {
-  digitalWrite(led, HIGH);   // Encendemos
-  delay(1000);               // Esperamos
-  digitalWrite(led, LOW);    // Apagamos
-  delay(1000);               // Esperamos
-}
+	void loop() {
+	  digitalWrite(led, HIGH);   // Encendemos
+	  delay(1000);               // Esperamos
+	  digitalWrite(led, LOW);    // Apagamos
+	  delay(1000);               // Esperamos
+	}
 
 ***
 
@@ -124,22 +124,55 @@ Ejercicio: Cambiamos al pin 8
 	int ledrojo=8;
 	int ledverde=9;
 	void setup()
-	{ pinMode(ledverde,OUTPUT);
-	  pinMode(ledrojo,OUTPUT);
+	{ pinMode(ledverde,OUTPUT); // Vamos a usarlo como salida
+	  pinMode(ledrojo,OUTPUT); // Vamos a usarlo como salida
 	}
 	void loop()
 	{ int esperaVerde=1000;
-	  int esperaRojo=500;
+	  int esperaRojo=500; 
+
 	  digitalWrite(ledverde,LOW);
 	  digitalWrite(ledrojo,HIGH);
+	  // Estamos en ROJO
 	  delay(esperaVerde);
 	  digitalWrite(ledrojo,LOW);
 	  digitalWrite(ledverde,HIGH);
+	  // Estamos en VERDE
 	  delay(esperaRojo);
 	}
 
 
 [código](https://github.com/javacasm/Robotica-Educativa-Arduino-y-3D/tree/master/codigo/Semaforo)
+
+***
+# C++ Semáforo con salida serie
+
+## Enviaremos al PC el estado del semáforo
+
+	int ledrojo=8;
+	int ledverde=9;
+	void setup()
+	{ pinMode(ledverde,OUTPUT); // Vamos a usarlo como salida
+	  pinMode(ledrojo,OUTPUT); // Vamos a usarlo como salida
+	  Serial.begin(9600); // Inicializamos la comunicación con el PC
+	}
+	void loop()
+	{ int esperaVerde=1000;
+	  int esperaRojo=500; 
+
+	  digitalWrite(ledverde,LOW);
+	  digitalWrite(ledrojo,HIGH);
+	  // Estamos en ROJO
+	  Serial.println("ROJO");
+	  delay(esperaVerde);
+	  digitalWrite(ledrojo,LOW);
+	  digitalWrite(ledverde,HIGH);
+	  // Estamos en VERDE
+	  Serial.println("VERDE");
+	  delay(esperaRojo);
+	}
+
+
 ***
 
 <!-- background: #184bc6-->
