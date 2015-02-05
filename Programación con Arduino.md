@@ -178,6 +178,23 @@ Ejercicio: Cambiamos al pin 8
 <!-- color: #fff -->
 <!-- font: centurygothic -->
 
+# Números decimales
+
+Usaremos el tipo de variable float
+### Ejemplo: Voltímetro
+* Leemos el valor de un potenciómetro conectado a una entrada analógica (A0)
+* Convertimos el valor (0-1023) a 0 - 5.0v
+* Sacamos el valor por la consola serie
+
+* Calibramos viendo los extremos y el valor intermedio 3.3V
+
+[código](https://github.com/javacasm/Robotica-Educativa-Arduino-y-3D/tree/master/codigo/voltimetro) 
+
+***
+
+<!-- background: #184bc6-->
+<!-- color: #fff -->
+<!-- font: centurygothic -->
 ## Sentencias de control [Bitbloq](http://bitbloq.bq.com)
 
 * Bucles
@@ -185,3 +202,32 @@ Ejercicio: Cambiamos al pin 8
 
 * Condicionales
 	Ejercicio: En función del valor de un potenciómetros encender 2 leds: Por debajo de 300 rojo, mayor de 600 verde y en medio ninguno.
+
+***
+
+<!-- background: #184bc6-->
+<!-- color: #fff -->
+<!-- font: centurygothic -->
+##  Salidas analógicas
+
+* Distintos rangos:  
+entradas 0-1023
+salidas 0-255
+* Mapeo de valores
+* Concepto de PWM
+
+* Ejemplo 1: Led
+* Ejemplo 2: Led RGB (inversión de niveles)
+
+***
+
+<!-- background: #184bc6-->
+<!-- color: #fff -->
+<!-- font: centurygothic -->
+## Librerías
+
+* Concepto de librería (POO)
+* Cómo incluirlas
+* Instalación de librerías
+
+* Ejemplo: control de servo con potenciómetro
