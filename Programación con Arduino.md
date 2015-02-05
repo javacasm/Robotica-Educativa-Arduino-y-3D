@@ -67,18 +67,18 @@ Utilizamos el pin 13 porque ya tiene un led conectado en la placa
 
 ![blink](http://arduino.cc/en/uploads/Tutorial/ExampleCircuit_bb.png)
 
-int led = 13;
+	int led = 13;
 
-void setup() {                
-  pinMode(led, OUTPUT);     
-}
+	void setup() {                
+	  pinMode(led, OUTPUT);     
+	}
 
-void loop() {
-  digitalWrite(led, HIGH);   // Encendemos
-  delay(1000);               // Esperamos
-  digitalWrite(led, LOW);    // Apagamos
-  delay(1000);               // Esperamos
-}
+	void loop() {
+	  digitalWrite(led, HIGH);   // Encendemos
+	  delay(1000);               // Esperamos
+	  digitalWrite(led, LOW);    // Apagamos
+	  delay(1000);               // Esperamos
+	}
 
 ***
 
