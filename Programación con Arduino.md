@@ -4,8 +4,7 @@
 
 ## Robótica Educativa: proyectos con arduino, 3D
 ### Arduino
-## CEP Granada, Enero 2015
-
+## CEP Granada              Febrero 2015
 ![CC](https://licensebuttons.net/l/by-sa/3.0/88x31.png)
 ## José Antonio Vacas  @javacasm
 [Presentación](https://swipe.to/1586cc)
@@ -58,7 +57,6 @@ Utilizamos el pin 13 porque ya tiene un led conectado en la placa
 
 [Parpadeo bitbloq](https://github.com/javacasm/Robotica-Educativa-Arduino-y-3D/blob/master/ejemplos/1.%20Parpadeo%20CEP.xml) (Compartido como 1. Parpadeo CEP)
 
-
 ***
 
 <!-- background: #184bc6-->
@@ -69,18 +67,18 @@ Utilizamos el pin 13 porque ya tiene un led conectado en la placa
 
 ![blink](http://arduino.cc/en/uploads/Tutorial/ExampleCircuit_bb.png)
 
-	int led = 13;
+int led = 13;
 
-	void setup() {                
-	  pinMode(led, OUTPUT);     
-	}
+void setup() {                
+  pinMode(led, OUTPUT);     
+}
 
-	void loop() {
-	  digitalWrite(led, HIGH);   // Encendemos
-	  delay(1000);               // Esperamos
-	  digitalWrite(led, LOW);    // Apagamos
-	  delay(1000);               // Esperamos
-	}
+void loop() {
+  digitalWrite(led, HIGH);   // Encendemos
+  delay(1000);               // Esperamos
+  digitalWrite(led, LOW);    // Apagamos
+  delay(1000);               // Esperamos
+}
 
 ***
 
@@ -117,27 +115,24 @@ Ejercicio: Cambiamos al pin 8
 
 [Semáforo bitbloq](https://github.com/javacasm/Robotica-Educativa-Arduino-y-3D/blob/master/ejemplos/Semaforo%20CEP.xml)
 
-
 ***
+
 # C++ Semáforo
 
 	int ledrojo=8;
 	int ledverde=9;
 	void setup()
-	{ pinMode(ledverde,OUTPUT); // Vamos a usarlo como salida
-	  pinMode(ledrojo,OUTPUT); // Vamos a usarlo como salida
+	{ pinMode(ledverde,OUTPUT);
+	  pinMode(ledrojo,OUTPUT);
 	}
 	void loop()
 	{ int esperaVerde=1000;
-	  int esperaRojo=500; 
-
+	  int esperaRojo=500;
 	  digitalWrite(ledverde,LOW);
 	  digitalWrite(ledrojo,HIGH);
-	  // Estamos en ROJO
 	  delay(esperaVerde);
 	  digitalWrite(ledrojo,LOW);
 	  digitalWrite(ledverde,HIGH);
-	  // Estamos en VERDE
 	  delay(esperaRojo);
 	}
 
@@ -145,6 +140,11 @@ Ejercicio: Cambiamos al pin 8
 [código](https://github.com/javacasm/Robotica-Educativa-Arduino-y-3D/tree/master/codigo/Semaforo)
 
 ***
+
+<!-- background: #184bc6-->
+<!-- color: #fff -->
+<!-- font: centurygothic -->
+
 # C++ Semáforo con salida serie
 
 ## Enviaremos al PC el estado del semáforo
@@ -171,7 +171,6 @@ Ejercicio: Cambiamos al pin 8
 	  Serial.println("VERDE");
 	  delay(esperaRojo);
 	}
-
 
 ***
 
