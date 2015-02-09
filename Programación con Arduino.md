@@ -31,6 +31,24 @@
 <!-- color: #fff -->
 <!-- font: centurygothic -->
 
+
+# ¿Dónde encontrar más información?
+
+* [Arduino programing Notebook](http://www.ardumania.es/wp-content/uploads/2011/10/Arduino_programing_notebook_ES.pdf)
+
+
+* [Arduino CheatSheet](https://github.com/liffiton/Arduino-Cheat-Sheet/blob/master/Arduino%20Cheat%20Sheet.pdf?raw=true)
+
+* [Arduino PlayGround](http://playground.arduino.cc/)
+
+* [Referencia de Arduino](http://arduino.cc/en/Reference/HomePage)
+
+***
+
+<!-- background: #184bc6-->
+<!-- color: #fff -->
+<!-- font: centurygothic -->
+
 ## Introducción [Bitbloq](http://bitbloq.bq.com)
 
 Usamos bloques para definir los programas:
@@ -67,18 +85,18 @@ Utilizamos el pin 13 porque ya tiene un led conectado en la placa
 
 ![blink](http://arduino.cc/en/uploads/Tutorial/ExampleCircuit_bb.png)
 
-	int led = 13;
+int led = 13;
 
-	void setup() {                
-	  pinMode(led, OUTPUT);     
-	}
+void setup() {                
+  pinMode(led, OUTPUT);     
+}
 
-	void loop() {
-	  digitalWrite(led, HIGH);   // Encendemos
-	  delay(1000);               // Esperamos
-	  digitalWrite(led, LOW);    // Apagamos
-	  delay(1000);               // Esperamos
-	}
+void loop() {
+  digitalWrite(led, HIGH);   // Encendemos
+  delay(1000);               // Esperamos
+  digitalWrite(led, LOW);    // Apagamos
+  delay(1000);               // Esperamos
+}
 
 ***
 
@@ -117,6 +135,10 @@ Ejercicio: Cambiamos al pin 8
 
 ***
 
+<!-- background: #184bc6-->
+<!-- color: #fff -->
+<!-- font: centurygothic -->
+
 # C++ Semáforo
 
 	int ledrojo=8;
@@ -135,7 +157,6 @@ Ejercicio: Cambiamos al pin 8
 	  digitalWrite(ledverde,HIGH);
 	  delay(esperaRojo);
 	}
-
 
 [código](https://github.com/javacasm/Robotica-Educativa-Arduino-y-3D/tree/master/codigo/Semaforo)
 
@@ -218,6 +239,7 @@ salidas 0-255
 
 * Ejemplo 1: Led
 * Ejemplo 2: Led RGB (inversión de niveles)
+* Ejemplo 3: circuito electrónico equivalente
 
 ***
 
@@ -231,3 +253,19 @@ salidas 0-255
 * Instalación de librerías
 
 * Ejemplo: control de servo con potenciómetro
+
+* Ejemplo: librería [Time](http://playground.arduino.cc/Code/Time)
+
+***
+
+<!-- background: #184bc6-->
+<!-- color: #fff -->
+<!-- font: centurygothic -->
+# Detectar una pulsación
+
+![botón](http://playground.arduino.cc/uploads/Main/FGFS_basics_pushbutton.jpg)
+
+if(digitalRead(pinBoton)==HIGH)
+{
+
+}

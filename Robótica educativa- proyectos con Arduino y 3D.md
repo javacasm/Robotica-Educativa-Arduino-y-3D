@@ -7,7 +7,6 @@
 Enero 2015
 ![CC](https://licensebuttons.net/l/by-sa/3.0/88x31.png)
 ## José Antonio Vacas  @javacasm
-[Presentación](https://swipe.to/8833cb)
 
 ***
 
@@ -213,6 +212,59 @@ Motores, sensores, microcontroladores,...
 # Diseño 3D
 
 * [sketchup](http://www.sketchup.com/es/learn)
-* [opencad](http://innovandoeducas.blogspot.com.es/2015/01/primera-sesion-de-diseno-e-impresion-3d.html) [opencad video](https://www.youtube.com/watch?x-yt-ts=1421828030&x-yt-cl=84411374&v=B45vsaMFcfU)
+* [opencad](http://innovandoeducas.blogspot.com.es/2015/01/primera-sesion-de-diseno-e-impresion-3d.html)
+* [opencad video](https://www.youtube.com/watch?x-yt-ts=1421828030&x-yt-cl=84411374&v=B45vsaMFcfU)
 * [freecad](https://www.youtube.com/watch?v=_VR_XOPcaVw)
-* [ThinkerCad](https://www.tinkercad.com)
+
+***
+
+<!-- background: #184bc6-->
+<!-- color: #fff -->
+<!-- font: centurygothic -->
+
+# Enlaces
+
+[Presentación curso](https://www.swipe.to/1586cc)
+
+[Presentacion arduino](http://www.slideshare.net/javacasm/robotica-educativa-cep-granada-2015)
+
+[Código y ejemplos](https://github.com/javacasm/Robotica-Educativa-Arduino-y-3D)
+
+[arduino](http://www.arduino.cc/)
+
+[descarga entorno](http://arduino.cc/en/Main/Software)
+
+[bitbloq](http://bitbloq.bq.com)
+
+***
+
+<!-- background: #184bc6-->
+<!-- color: #fff -->
+<!-- font: centurygothic -->
+### ¿Dónde comprar?
+
+Ante todo hay que mirar lo que se compra y la documentación e información que se incluye.
+
+# Españolas
+[Electan](http://www.electan.com/)
+[Cooking Hacks](http://www.cooking-hacks.com/)
+[Bricogeek](http://tienda.bricogeek.com/)
+[Bq](http://www.bq.com/es/productos/kit-robotica.html)
+
+***
+
+<!-- background: #184bc6-->
+<!-- color: #fff -->
+<!-- font: centurygothic -->
+
+# Internacionales
+[Sparkfun](https://www.sparkfun.com/)
+[Adafruit](http://www.adafruit.com/)
+[SeedStudio](http://www.seeedstudio.com)
+
+# Internacionales baratas
+[Elecfreaks](http://www.elecfreaks.com/)
+[EletroDragon](http://www.electrodragon.com/)
+
+# Baratas (bazares)
+[DX](http://www.dx.com/s/arduino)
