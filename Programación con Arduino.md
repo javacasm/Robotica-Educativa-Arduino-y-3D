@@ -248,6 +248,8 @@ salidas 0-255
 <!-- font: centurygothic -->
 # Detectar una pulsación
 
+Debemos conectar el pin a GND para grantizar el estado LOW si está desconectado: PullDown
+
 ![botón](http://playground.arduino.cc/uploads/Main/FGFS_basics_pushbutton.jpg)
 
 if(digitalRead(pinBoton)==HIGH)
