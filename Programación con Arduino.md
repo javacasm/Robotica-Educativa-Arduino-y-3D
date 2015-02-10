@@ -246,6 +246,51 @@ salidas 0-255
 <!-- background: #184bc6-->
 <!-- color: #fff -->
 <!-- font: centurygothic -->
+# Detectar una pulsación
+
+![botón](http://playground.arduino.cc/uploads/Main/FGFS_basics_pushbutton.jpg)
+
+if(digitalRead(pinBoton)==HIGH)
+{  .....}
+
+***
+
+<!-- background: #184bc6-->
+<!-- color: #fff -->
+<!-- font: centurygothic -->
+# Medidas con sensores
+
+Podemos pensar en los sensores como un circuito externo que tenemos que alimentar conectando a 5v y GND (divisor de tensión)
+
+![divisor de tensión](http://panamahitek.com/wp-content/uploads/2014/01/fotoresistor.png)
+
+Estudiar el comportamiento con la luz
+
+***
+
+<!-- background: #184bc6-->
+<!-- color: #fff -->
+<!-- font: centurygothic -->
+# LDR (célula fotoeléctrica)
+
+Ejemplo: activaremos un led al pasar de determinado nivel de luz
+![montaje LDR](http://s3rgiosan.com/workshop-arduino/sketches/sketch5b.png)
+Ejemplo 2: Regular el nivel con un potenciometro.  Documentarlo.
+
+***
+
+<!-- background: #184bc6-->
+<!-- color: #fff -->
+<!-- font: centurygothic -->
+# Termistor (sensor de temperatura)
+[Documentación del kit](http://www.seeedstudio.com/wiki/Sidekick_Basic_Kit_for_Arduino_V2#Thermistors)  [foros](http://www.seeedstudio.com/forum/viewtopic.php?f=16&t=2117&p=14846&hilit=thermistor#p14846)  [fabricante](http://www.seeedstudio.com/forum/download/file.php?id=1345)
+![RTC](http://i56.tinypic.com/scx561.jpg)
+
+***
+
+<!-- background: #184bc6-->
+<!-- color: #fff -->
+<!-- font: centurygothic -->
 ## Librerías
 
 * Concepto de librería (POO)
@@ -255,17 +300,3 @@ salidas 0-255
 * Ejemplo: control de servo con potenciómetro
 
 * Ejemplo: librería [Time](http://playground.arduino.cc/Code/Time)
-
-***
-
-<!-- background: #184bc6-->
-<!-- color: #fff -->
-<!-- font: centurygothic -->
-# Detectar una pulsación
-
-![botón](http://playground.arduino.cc/uploads/Main/FGFS_basics_pushbutton.jpg)
-
-if(digitalRead(pinBoton)==HIGH)
-{
-
-}
