@@ -1,7 +1,6 @@
 # Proyectos
 
-Estos son los proyectos que iremos realinzando en la segunda parte del curso
- 
+Estos son los proyectos que iremos realinzando en la segunda parte del curso 
 [Robótica educativa con Arduino y 3D](https://github.com/javacasm/Robotica-Educativa-Arduino-y-3D/blob/master/Rob%C3%B3tica%20educativa-%20proyectos%20con%20Arduino%20y%203D.md)
 
  
