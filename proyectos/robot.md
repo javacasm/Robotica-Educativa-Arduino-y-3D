@@ -1,11 +1,12 @@
-# Invernadero digital
+# Robot móvil
 
+![robot](http://letsmakerobots.com/files/field_primary_image/20130328_163935.jpg)
 
-### Descripción
+## Descripción
 
 Robot móvil: Un sencillo robot móvil, con 2 motores y ruedas, dotado de sensores de distancia podrá realizar un mapa de la zona en la que se encuentra, detectando y evitando obtáculos en su camino. Los datos del movimiento se almacenan en un tarjeta SD para su posterior análisis. Se incluye un panel solar para aumentar su autonomía.
 
-## Componetes
+## Componentes
 
 * Motores 
 ![motor](http://www.electan.com/product_thumb.php?img=images/Pololu/0J1093.jpg&w=320&h=240)

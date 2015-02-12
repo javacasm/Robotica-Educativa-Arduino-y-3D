@@ -1,5 +1,6 @@
-# Invernadero digital
+# Globo sonda
 
+![globo](http://makezineblog.files.wordpress.com/2010/07/weatherbeacon2.jpg?w=600&h=450)
 
 ### Descripción
 
