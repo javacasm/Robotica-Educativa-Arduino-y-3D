@@ -14,6 +14,7 @@ Globo sonda meteorológico: Se medirań y registrarán variables meteorológicas
 ![sensor](http://www.seeedstudio.com/wiki/images/thumb/d/d1/Temp_humi_pro.jpg/400px-Temp_humi_pro.jpg)
 * Acelerómetro [pagina](https://www.sparkfun.com/products/9269)
 ![acelerometro](https://cdn.sparkfun.com//assets/parts/2/7/6/8/09269-01.jpg)
+
 ## Modelo
 
 [Arduino box](http://www.thingiverse.com/thing:13931) Habrá que modificar las dimensiones y la posición de la tarjeta
