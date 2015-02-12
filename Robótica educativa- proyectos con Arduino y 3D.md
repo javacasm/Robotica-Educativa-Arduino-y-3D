@@ -14,9 +14,9 @@ Enero 2015
 <!-- color: #fff -->
 <!-- font: centurygothic -->
 
-# Proyectos 
+# [Proyectos](https://github.com/javacasm/Robotica-Educativa-Arduino-y-3D/blob/master/proyectos/proyectos.md) 
 # educativos con  
-# Arduino y 
+# [Arduino](https://github.com/javacasm/Robotica-Educativa-Arduino-y-3D/blob/master/Programaci%C3%B3n%20con%20Arduino.md) y 
 # 3D
 
 ***
