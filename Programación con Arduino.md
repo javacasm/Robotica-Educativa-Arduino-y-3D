@@ -2,7 +2,7 @@
 <!-- color: #fff -->
 <!-- font: centurygothic -->
 
-## Robótica Educativa: proyectos con arduino, 3D
+## [Robótica Educativa: proyectos con arduino, 3D](https://github.com/javacasm/Robotica-Educativa-Arduino-y-3D/blob/master/Rob%C3%B3tica%20educativa-%20proyectos%20con%20Arduino%20y%203D.md)
 ### Arduino
 ## CEP Granada              Febrero 2015
 ![CC](https://licensebuttons.net/l/by-sa/3.0/88x31.png)
@@ -36,7 +36,6 @@
 
 * [Arduino programing Notebook](http://www.ardumania.es/wp-content/uploads/2011/10/Arduino_programing_notebook_ES.pdf)
 
-
 * [Arduino CheatSheet](https://github.com/liffiton/Arduino-Cheat-Sheet/blob/master/Arduino%20Cheat%20Sheet.pdf?raw=true)
 
 * [Arduino PlayGround](http://playground.arduino.cc/)
@@ -57,6 +56,8 @@ Usamos bloques para definir los programas:
 * bloques matemáticos (opearaciones)
 * bloques de control (bucles, pausas, condicionales)
 * bloques de variables
+
+[Tutoriales bitbloq](http://diwo.bq.com/tag/bitbloq/)
 
 ***
 
