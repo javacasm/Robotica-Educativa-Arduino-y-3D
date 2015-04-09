@@ -4,7 +4,7 @@
 
 ## Descripción
 
-Se medirań y registrarán variables meteorológicas: temperatura, humedad ambiental y humedad del suelo para decidir si se activan sistemas de riego o de ventilación. Los datos se guardan en una tarjeta SD de formato micro que puede ser leída desde un ordenador donde se podrán analizar. Se ha incluído una pequeño panel solar para hacerlo más ecológico.
+Se medirań y registrarán variables meteorológicas: temperatura, humedad ambiental y humedad del suelo para decidir si se activan sistemas de riego o de ventilación. Los datos se guardan en una tarjeta SD de formato micro que puede ser leída desde un ordenador donde se podrán analizar. S
 
 ## Componentes
 
@@ -16,7 +16,12 @@ Se medirań y registrarán variables meteorológicas: temperatura, humedad ambie
 Usaremos varias [cajas](http://www.thingiverse.com/thing:537560) 1 para un arduino con 3 shields y otras para los sensores que estarán en el exterior. Habrá que saber hacerlas re-dimensionandolas.
 Soporte para ventilador de PC de 80x80
 
+
+[sensores](http://www.thingiverse.com/javacasm/collections/sensores)
 [Caja ventilada](http://www.thingiverse.com/thing:304617)
+[Alternativas](http://www.thingiverse.com/javacasm/collections/caja-arduino)
+
+[Invernaderos](http://www.thingiverse.com/javacasm/collections/invernadero)
 
 ## Ejemplos:
 

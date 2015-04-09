@@ -10,3 +10,5 @@
 
 
 
+## Alimentación solar
+Se ha renunciado al uso de energía solar porque se requería de una bateria y paneles de excesivo tamaño. (ver ejemplo)
