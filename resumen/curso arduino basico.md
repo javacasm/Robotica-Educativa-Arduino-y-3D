@@ -2,7 +2,6 @@
 
 # Curso básico de Arduino
 
-![Createc3D](imagenes/logocreatec3d_2.png)
 
 ### José Antonio Vacas @javacasm
 ![CCbySA](imagenes/CCbySQ_88x31.png)
@@ -84,7 +83,7 @@ Programa parpadeo
 #### Ejercicio: Cambiar el pin utilizado al pin 2
 
 * * *
-
+	
 ### Esquema eléctrico
 
 ![led externo](imagenes/ExampleCircuit_sch.png)
