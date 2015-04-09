@@ -16,6 +16,8 @@ Se medirań y registrarán variables meteorológicas: temperatura, humedad ambie
 Usaremos varias [cajas](http://www.thingiverse.com/thing:537560) 1 para un arduino con 3 shields y otras para los sensores que estarán en el exterior. Habrá que saber hacerlas re-dimensionandolas.
 Soporte para ventilador de PC de 80x80
 
+[Caja ventilada](http://www.thingiverse.com/thing:304617)
+
 ## Ejemplos:
 
 * Accionamiento de motores

@@ -1,10 +1,10 @@
-# Globo sonda
+# Globo sonda/Estación meteorológica
 
 ![globo](http://makezineblog.files.wordpress.com/2010/07/weatherbeacon2.jpg?w=600&h=450)
 
 ### Descripción
 
-Globo sonda meteorológico: Se medirań y registrarán variables meteorológicas: temperatura, humedad ambiental y presión atmósférica junto a la posición por medio d un gps y el movimiento con un acelerómetro  lo que nos permite saber el movimiento que realiza en su vuelo. Los datos se guardan en una tarjeta SD de formato micro que puede ser leída desde un ordenador donde se podrán analizar con posterioridad. Se ha dotado al sistema de un pequeño panel solar para darle mayor autonomía.
+Globo sonda/estación meteorológica: Se medirań y registrarán variables meteorológicas: temperatura, humedad ambiental y presión atmósférica junto a la posición por medio d un gps y el movimiento con un acelerómetro  lo que nos permite saber el movimiento que realiza en su vuelo. Los datos se guardan en una tarjeta SD de formato micro que puede ser leída desde un ordenador donde se podrán analizar con posterioridad. Se ha dotado al sistema de un pequeño panel solar para darle mayor autonomía.
 
 ## Componentes
 
@@ -18,7 +18,9 @@ Globo sonda meteorológico: Se medirań y registrarán variables meteorológicas
 
 ## Modelo
 
+[Caja ventilada](http://www.thingiverse.com/thing:304617)
 [Arduino box](http://www.thingiverse.com/thing:13931) Habrá que modificar las dimensiones y la posición de la tarjeta
+
 
 ## Ejemplos:
 
