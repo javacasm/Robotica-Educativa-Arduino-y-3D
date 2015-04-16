@@ -31,6 +31,6 @@ Habría que añadir un pequeño soporte para el panel solar
 
 ## Librerías
 
-* Motor
-* Ping (sensor de ultrasonidos)
+* [Motor](http://www.dfrobot.com/wiki/index.php?title=Arduino_Motor_Shield_%28L298N%29_%28SKU:DRI0009%29)
+* [Ping](http://playground.arduino.cc/Code/NewPing) (sensor de ultrasonidos)
 
