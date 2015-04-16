@@ -10,7 +10,7 @@ Estos son los proyectos que iremos realinzando en la segunda parte del curso
 
 * * *
 
-[Robot](https://github.com/javacasm/Robotica-Educativa-Arduino-y-3D/blob/master/proyectos/robot.md)
+[Robot móvil](https://github.com/javacasm/Robotica-Educativa-Arduino-y-3D/blob/master/proyectos/robot.md)
 
 * * * 
 
