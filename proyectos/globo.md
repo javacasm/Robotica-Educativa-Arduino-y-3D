@@ -1,6 +1,6 @@
 # Globo sonda/Estación meteorológica
 
-![globo](http://makezineblog.files.wordpress.com/2010/07/weatherbeacon2.jpg?w=600&h=450)
+![globo](http://arielwaldman.com/wp-content/2010/03/6331-239861690014-774155014-8379928-4367982-n.jpg)
 
 ### Descripción
 
@@ -9,6 +9,21 @@ Globo sonda/estación meteorológica: Se medirań y registrarán variables meteo
 El implementar el globo sonda tiene algunas complejidades añadidas:
 * Es necesario solicitar un permiso especial para su lanzamiento
 * Infraentructura tecnica como es el globo, el gas, una caja antigolpes, paracaidas y la recuperación de los componentes
+
+## Ejemplos de proyectos
+
+### Granabot
+
+[Lista de componentes](http://granabot.es/globo-sonda-componentes-y-presupuesto/)
+[programación](http://granabot.es/globo-sonda-programacion-en-arduino/)
+
+### Chasat
+
+[blot](http://chasat.blogspot.com.es/)
+
+### Sparkfun
+
+[proyecto](https://www.sparkfun.com/tutorials/180)
 
 ## Componentes
 
