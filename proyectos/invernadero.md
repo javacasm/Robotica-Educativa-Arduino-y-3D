@@ -25,9 +25,14 @@ Soporte para ventilador de PC de 80x80
 
 ## Ejemplos:
 
-* Accionamiento de motores
-* Lectura de humedad del suelo
+* Accionamiento de [motores]([Motor](http://www.dfrobot.com/wiki/index.php?title=Arduino_Motor_Shield_%28L298N%29_%28SKU:DRI0009%29))
+* [Lectura de humedad del suelo](https://github.com/Seeed-Studio/Moisture_Sensor)
+
+* [Activación de bomba con relé](http://bocoup.com/weblog/javascript-relay-with-johnny-five/)
+
 * Lectura de temperatura y humedad
+
+[Proyecto de riego con sensores](http://www.instructables.com/id/WATERING-SYSTEM-INTRODUCTION/)
 
 ## Librerías
 
