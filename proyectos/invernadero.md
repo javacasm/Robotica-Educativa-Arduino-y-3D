@@ -32,7 +32,7 @@ Soporte para ventilador de PC de 80x80
 ## Ejemplos:
 
 * Accionamiento de [motores]([Motor](http://www.dfrobot.com/wiki/index.php?title=Arduino_Motor_Shield_%28L298N%29_%28SKU:DRI0009%29))
-* [Lectura de humedad del suelo](https://github.com/Seeed-Studio/Moisture_Sensor)
+* [Lectura de humedad del suelo](https://github.com/Seeed-Studio/Moisture_Sensor) Este sensor tendremos que calibrarlo en el terreno donde lo vamos a usar para saber los valores que indican que el mismo está seco o húmedo. Para probar podemos tocarlo con los dedos secos, húmedos o con un cleenex  mojado.
 
 * [Activación de bomba con relé](http://bocoup.com/weblog/javascript-relay-with-johnny-five/)
 
@@ -42,6 +42,6 @@ Soporte para ventilador de PC de 80x80
 
 ## Librerías
 
-* SD
 * [DHT22](https://github.com/Seeed-Studio/Grove_Temperature_And_Humidity_Sensor) 
+* El sensor de humedad de suelo no necesita librería, basta con hacer un analogRead del pin analógico donde está conectado.
 
