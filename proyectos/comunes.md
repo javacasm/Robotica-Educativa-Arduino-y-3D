@@ -3,7 +3,23 @@
 * Aprender a escribir ficheros
 * Recupera el contenido en el ordenador
 
-### Lib
+### Problemas con las tarjetas
+
+* Las tarjetas SD son enórmemente sensibles, si se produce un error puede que haya que volver a formatearlas. 
+* Se deben formatear siempre en FAT32
+* Las tarjetas más antiguas suelen funcionar mejor porque utilizan menores velocidades
+* Dado que es posible que se produzcan errores de acceso o de escritura, nuestro programa siempre contemplará esa posibilidad, realizando el resto de tareas en caso de error. (ver el ejemplo Datalogger de la librería SD para el tratamiento de errores). En general se tratará así:
+
+	if(ErrorDeAcceso)
+	{
+		Serial.println("Error de acceso a SD");
+	}
+	else
+	{
+		// Escritura a SD
+	}
+
+### Libreria SD
 
 * [Librería](http://arduino.cc/en/Reference/SD)
 * [Ejemplo](https://github.com/sparkfun/microSD_Shield/blob/V_1.4/Firmware/SD_Datalogger/SD_Datalogger.ino)
