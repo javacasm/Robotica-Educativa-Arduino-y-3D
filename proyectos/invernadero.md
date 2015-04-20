@@ -17,6 +17,10 @@ En este proyecto controlaremos 2 actuadores:
 * Sensor de temperatura y humedad [producto](http://www.seeedstudio.com/wiki/Grove_-_Temperature_and_Humidity_Sensor_Pro)
 ![sensor](http://www.seeedstudio.com/wiki/images/thumb/d/d1/Temp_humi_pro.jpg/400px-Temp_humi_pro.jpg)
 
+* Control de motores [pagina](http://www.dfrobot.com/wiki/index.php?title=Arduino_Motor_Shield_(L298N)_(SKU:DRI0009))
+![control](http://www.dfrobot.com/wiki/images/1/1e/Arduino_Shield3.png)
+
+
 ## Modelo
 
 Usaremos varias [cajas](http://www.thingiverse.com/thing:537560) 1 para un arduino con 3 shields y otras para los sensores que estarán en el exterior. Habrá que saber hacerlas re-dimensionandolas.
