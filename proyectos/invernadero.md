@@ -4,7 +4,13 @@
 
 ## Descripción
 
-Se medirań y registrarán variables meteorológicas: temperatura, humedad ambiental y humedad del suelo para decidir si se activan sistemas de riego o de ventilación. Los datos se guardan en una tarjeta SD de formato micro que puede ser leída desde un ordenador donde se podrán analizar. S
+Se medirán y registrarán variables meteorológicas: temperatura, humedad ambiental y humedad del suelo para decidir si se activan sistemas de riego o de ventilación. Los datos se guardan en una tarjeta SD de formato micro que puede ser leída desde un ordenador donde se podrán analizar. 
+
+En este proyecto controlaremos 2 actuadores:
+
+* Bomba de agua: en principio usaremos el relé para activarla, pero se puede probar a controlarla con la placa de motores. Dado que requiere bastante potencia para funcionar la conectaremos a la alimentación, interponiendo el contacto del relé que activaremos cuando el sensor de humedad de suelo detecte que el suelo está seco.
+
+* Ventilador: en función de la temperatura/humedad del aire se decidirá un valor umbral, 1 grado por debajo del cual se activará el ventilador en una dirección. Cuando estemos un grado por encima del umbral se activará el ventilador en la dirección contraria. Se puede hacer que cuanto más lejos estemos del umbral, más rápido girará el ventilador. El ventilador estará conectado a la placa de control de motores que recibirá directamente la alimentación también.
 
 ## Componentes
 
