@@ -4,7 +4,15 @@
 
 ## Descripción
 
-Robot móvil: Un sencillo robot móvil, con 2 motores y ruedas, dotado de sensores de distancia podrá realizar un mapa de la zona en la que se encuentra, detectando y evitando obtáculos en su camino. Los datos del movimiento se almacenan en un tarjeta SD para su posterior análisis. 
+Robot móvil: Un sencillo robot móvil, con 2 motores y ruedas, dotado de sensor de distancia. Podremos realizar un mapa de la zona en la que se encuentra, detectando y evitando obtáculos en su camino. Los datos del movimiento se almacenan en un tarjeta SD para su posterior análisis. 
+
+## Objetivos
+
+* Aprenderemos a controlar los motores, sabiendo acelerarlos y frenarlos según queramos. Veremos que cuando tenemos distintas direcciones de giro (o velocidades) entre ellos el robot gira sobre sí mismo.
+* Aprenderemos a medir distancias con el sensor.
+* El robot avanzará en línea recta midiendo en todo momento la distancia de los objetos en su línea de movimiento. 
+* Si se detecta un objeto más cerca de una determinada distancia, se girará hacia un lado para evitarlo
+* Se puede hacer que el sensor de distancia cambie su orientación con el servo, en ese caso se puede buscar qué dirección tiene un camino libre mayor y girar hasta esa dirección.
 
 ## Componentes
 
