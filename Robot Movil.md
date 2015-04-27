@@ -2,11 +2,12 @@
 
 # Robótica educativa con Arduino y 3D 
 
-## Material Robot Móvil
+##  Modelo:  Robot Móvil
 
 ### Nombre: 
 ### Centro:
 
+#### Materiales entregados:
 
 |Material|Disponible|
 |---|---|
