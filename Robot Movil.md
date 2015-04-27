@@ -10,8 +10,11 @@
 
 |Material|Disponible|
 |---|---|
-|Arduino UNO + Kit Básico + cable||
+|Arduino UNO||
+|Kit Básico||
+|Cable USB||
 |Arduino Shield MicroSD||
+|Tarjeta SD||
 |Arduino Shield Motor 2A DFRobot||
 |Batería||
 |2 x Plastic Gearmotor||
