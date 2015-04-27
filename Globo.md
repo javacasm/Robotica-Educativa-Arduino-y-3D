@@ -23,3 +23,14 @@
 |GPS Venus con Conector SMA||
 |Antena GPS||
 |Caja 3D||
+
+
+
+
+
+
+
+
+
+
+Fdo:
