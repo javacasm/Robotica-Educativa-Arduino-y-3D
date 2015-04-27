@@ -2,11 +2,12 @@
 
 # Robótica educativa con Arduino y 3D 
 
-## Invernadero
+## Modelo: Invernadero
 
 ### Nombre: 
 ### Centro:
 
+#### Materiales entregados:
 
 |Material|Disponible|
 |---|---|
