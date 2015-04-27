@@ -16,7 +16,9 @@
 |Arduino Shield MicroSD||
 |Tarjeta SD||
 |Arduino Shield Motor 2A DFRobot||
-|Batería||
-|2 x Plastic Gearmotor||
-|Sensor de Distancia por Ultrasonidos Ping||
-|Modelo 3D||
+|Relé 5v||
+|Bomba de Agua Solar 12V 8l/min||
+|Sensor de Temperatura y Humedad||
+|Sensor Humedad del Suelo||
+|Ventilador DC Brushless||
+|Caja 3D||
