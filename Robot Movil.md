@@ -21,3 +21,7 @@
 |2 x Plastic Gearmotor||
 |Sensor de Distancia por Ultrasonidos Ping||
 |Modelo 3D||
+
+
+
+Fdo:
