@@ -2,11 +2,12 @@
 
 # Robótica educativa con Arduino y 3D 
 
-## Globo/Estación Meteorológica
+## Modelo: Globo/Estación Meteorológica
 
 ### Nombre: 
 ### Centro:
 
+#### Materiales entregados:
 
 |Material|Disponible|
 |---|---|
