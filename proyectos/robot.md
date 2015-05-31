@@ -26,7 +26,7 @@ Robot móvil: Un sencillo robot móvil, con 2 motores y ruedas, dotado de sensor
 
 ## Modelo
 
-Me gustaría basarme en [este modelo](http://www.thingiverse.com/thing:200582) pero añadiendo la posibilidad de mover el sensor de ultrasonidos con un servo 
+Me gustaría basarme en [este modelo](http://www.thingiverse.com/thing:200582) pero añadiendo la posibilidad de mover el [sensor de ultrasonidos](http://www.thingiverse.com/thing:787202) con un servo 
 Habría que añadir un pequeño soporte para el panel solar
 
 [alternativas](http://www.thingiverse.com/javacasm/collections/robot-movil)
