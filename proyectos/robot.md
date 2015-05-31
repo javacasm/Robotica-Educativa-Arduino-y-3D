@@ -1,6 +1,6 @@
 # Robot móvil
 
-![robot](http://letsmakerobots.com/files/field_primary_image/20130328_163935.jpg)
+![robot](https://lh6.googleusercontent.com/-0FRQ2C8_RGE/VTpwbOIYmpI/AAAAAAAA4w8/bBxwFRr3z4M/w1014-h761-no/IMG_20150423_202826.jpg)
 
 ## Descripción
 
