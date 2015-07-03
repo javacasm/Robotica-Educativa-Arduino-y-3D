@@ -41,7 +41,7 @@ Una posibilidad es utilizarlo en una cometa. Habría que protegerlo ante caidas 
 * Sensor de temperatura y humedad [producto](http://www.seeedstudio.com/wiki/Grove_-_Temperature_and_Humidity_Sensor_Pro)
 ![sensor](http://www.seeedstudio.com/wiki/images/thumb/d/d1/Temp_humi_pro.jpg/400px-Temp_humi_pro.jpg)
 * Acelerómetro [pagina](https://www.sparkfun.com/products/9269)
-![acelerometro](https://cdn.sparkfun.com//assets/parts/2/7/6/8/09269-01.jpg)
+![acelerometro](https://cdn.sparkfun.com//assets/parts/2/7/6/8/09269-01.jpg) (no necesita librería puesto que sólo hay que leer valores analógicos)
 
 ## Modelo
 
