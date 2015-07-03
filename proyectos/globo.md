@@ -37,7 +37,7 @@ Una posibilidad es utilizarlo en una cometa. Habría que protegerlo ante caidas 
 
 * GPS [Página del producto](https://www.sparkfun.com/products/11058) [GPS](http://www.electan.com/product_thumb.php?img=images/09133-01.jpg&w=320&h=240) 
 * Barómetro [página del producto](http://www.seeedstudio.com/wiki/Grove_-_Barometer_Sensor) 
-![barómetro](http://www.seeedstudio.com/wiki/images/thumb/e/e7/Grove-Barometer.jpg/300px-Grove-Barometer.jpg)
+![barómetro](http://www.seeedstudio.com/wiki/images/thumb/e/e7/Grove-Barometer.jpg/300px-Grove-Barometer.jpg) ([librería](http://www.seeedstudio.com/wiki/File:Barometer_Sensor.zip))
 * Sensor de temperatura y humedad [producto](http://www.seeedstudio.com/wiki/Grove_-_Temperature_and_Humidity_Sensor_Pro)
 ![sensor](http://www.seeedstudio.com/wiki/images/thumb/d/d1/Temp_humi_pro.jpg/400px-Temp_humi_pro.jpg)
 * Acelerómetro [pagina](https://www.sparkfun.com/products/9269)
