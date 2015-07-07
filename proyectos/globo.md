@@ -35,9 +35,9 @@ Una posibilidad es utilizarlo en una cometa. Habría que protegerlo ante caidas 
 
 ## Componentes
 
-* GPS [Página del producto](https://www.sparkfun.com/products/11058) [GPS](http://www.electan.com/product_thumb.php?img=images/09133-01.jpg&w=320&h=240) 
+* GPS [Página del producto](https://www.sparkfun.com/products/11058) [detalles](https://github.com/sparkfun/Venus_GPS_SMA_Connector/tree/V_2.1 )[GPS](http://www.electan.com/product_thumb.php?img=images/09133-01.jpg&w=320&h=240) 
 * Barómetro [página del producto](http://www.seeedstudio.com/wiki/Grove_-_Barometer_Sensor) 
-![barómetro](http://www.seeedstudio.com/wiki/images/thumb/e/e7/Grove-Barometer.jpg/300px-Grove-Barometer.jpg) ([librería](http://www.seeedstudio.com/wiki/File:Barometer_Sensor.zip))
+![barómetro](http://www.seeedstudio.com/wiki/images/thumb/e/e7/Grove-Barometer.jpg/300px-Grove-Barometer.jpg) ([librería](http://www.seeedstudio.com/wiki/images/e/e8/Barometer_Sensor.zip)
 * Sensor de temperatura y humedad [producto](http://www.seeedstudio.com/wiki/Grove_-_Temperature_and_Humidity_Sensor_Pro)
 ![sensor](http://www.seeedstudio.com/wiki/images/thumb/d/d1/Temp_humi_pro.jpg/400px-Temp_humi_pro.jpg)
 * Acelerómetro [pagina](https://www.sparkfun.com/products/9269)
@@ -55,7 +55,7 @@ Una posibilidad es utilizarlo en una cometa. Habría que protegerlo ante caidas 
 ## Ejemplos:
 
 * GPS [Guia](http://www.doctormonk.com/2012/05/sparkfun-venus-gps-and-arduino.html) [Comandos](http://dlnmh9ip6v2uc.cloudfront.net/datasheets/Sensors/GPS/Venus/638/doc/AN0008_v1.4.11-datalogging.pdf)
-
+[Tutorial GPS](http://playground.arduino.cc/Tutorials/GPS)
 * Lectura de humedad del suelo
 * Lectura de temperatura y humedad
 * [Acelerómetro](https://github.com/sparkfun/ADXL335_Breakout)
